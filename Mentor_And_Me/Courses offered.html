@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title></title>
+</head>
+<style>
+    body {
+        background: linear-gradient(black, yellow);
+        background-position: center;
+        background-repeat: repeat;
+        height: 100vh;
+        background-attachment: fixed;
+        background-size: cover;
+        opacity: 0.85;
+    }
+
+    * {
+        padding: 10px;
+        margin: 0px;
+    }
+
+    body {
+        font-family: arial;
+    }
+
+    .cards {
+        width: 25%;
+        background-color: lightgrey;
+        display: inline-block;
+        border-radius: 5%;
+        margin: 20px;
+        box-shadow: 2px 2px 10px black;
+    }
+
+    .image img {
+        width: 30%;
+        background-color: rebeccapurple;
+        padding: 5px;
+    }
+
+    button {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        background-color: lightgrey;
+        border: 4px solid black;
+        padding: 5px;
+        border-radius: 5px;
+    }
+
+    button:hover {
+        background-color: lightskyblue;
+        color: black;
+        transition: 0.5s;
+        cursor: pointer;
+    }
+
+    nav {
+        display: grid;
+        place-items: center;
+    }
+
+    nav ul {
+        list-style-type: none;
+    }
+
+    nav ul a {
+        display: inline-flex;
+        padding: 20px;
+        text-decoration: none;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: white;
+        transition: 0.2s ease-in;
+    }
+
+    nav ul a:hover {
+        background-color: palevioletred;
+        color: black;
+    }
+</style>
+
+<body>
+    <h1
+        style="color: white ; font-size: larger; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
+        GRAPHICAL ANALYSIS OF SMART WATER METER</h1>
+
+    <div class="main">
+        <div class="cards">
+            <div class="image">
+                <img
+                    src="data:image/png;base64,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">
+            </div>
+            <div class="title">
+                <h1>PIE CHART ANALYSIS</h1>
+            </div>
+            <div class="description">
+                <b>
+                    <p>The global Smart Water Metering market is expected to grow at a CAGR of 11.6%
+                        during the
+                        forecast<br>
+                        period, from an estimated USD 3.7 billion in 2022 to USD 6.4 billion in 2027. The market growth
+                        for
+                        smart
+                        water meters
+                        can be attributed to the rise in need for accuracy in water billing solutions.
+                    </p>
+                </b>
+                <a href="file:///C:/Users/srini/Desktop/DBMS%20SEM%202/piechart101.html"
+                    target="_blank"><button>Redirect</button></a>
+            </div>
+        </div>
+
+        <div class="cards">
+            <div class="image">
+                <img
+                    src="data:image/png;base64,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">
+            </div>
+            <div class="title">
+                <h1>BAR GRAPH</h1>
+            </div>
+            <div class="description">
+                <b>
+                    <p>Smart cities require interactive management of water supply networks and water meters play an
+                        important role
+                        in
+                        such a<br>
+                        task. As compared to fully mechanical water meters, electromechanical water meters or fully
+                        electronic water
+                        meters can<br>
+                        collect real-time information through automatic meter reading (AMR)
+                        c...</p>
+                </b>
+                <a href="file:///C:/Users/srini/Desktop/DBMS%20SEM%202/bargraph101.html" target="_blank">
+                    <button>Redirect</button></a>
+            </div>
+        </div>
+        <div class="cards">
+            <div class="image">
+                <img src="file:///C:/Users/srini/Desktop/MENTOR%20AND%20ME/UID%20IMAGES/UG%20PROGRAMS/4-large.jpg">
+            </div>
+            <div class="title">
+                <h1>IIT/JEE PROGRAMS</h1>
+            </div>
+            <div class="description">
+                IIT JEE HAVE TOP CLASS MATERIALS <br>FOR THE STUDENTS FOR ALL THE SECONDARY STUDENTS HERE MOSTLY
+                INTERMEDIATE BOTH STATE AND CENTRAL BOARD SYLLABUS MOSTLY PREVIOUS YEAR PAPERS FOR MATHS ETC...
+                <br>
+                <a href="file:///C:/Users/srini/Desktop/MENTOR%20AND%20ME/IIT%20JEE%20MAIN%20PART.html"
+                    target="_blank"><button>View course..</button></a>
+            </div>
+        </div>
+    </div>
+    </div>
+</body>
+
+</html>
