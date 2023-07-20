@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MeheRRVardhan
-- 👀 I’m interested in Networking and security
-- 🌱 I’m currently persuing my Btech in Computer science and engineering
-- 💞️ I’m looking to work on realtime projects.
+- 👀 I’m interested in Networking and security, and in research in network analysis
+- 🌱 I’m currently pursuing my Btech in Computer science and engineering
+- 💞️ I’m looking to work on real-time projects
 - 📫 How to reach me ...
 
 <!---
