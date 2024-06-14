@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://www.linkedin.com/in/mehervardhan1122/overlay/1716176059392/single-media-viewer?type=LINK&profileId=ACoAAD1pbP0BzggzrEslnHGJ9gcP6zv5l6s0Qdc&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BYLF6MG7uQk2olpxYeQhhZg%3D%3D
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
