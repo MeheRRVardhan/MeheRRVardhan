@@ -21,7 +21,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-https://www.linkedin.com/in/mehervardhan1122/overlay/1716176059392/single-media-viewer?type=LINK&profileId=ACoAAD1pbP0BzggzrEslnHGJ9gcP6zv5l6s0Qdc&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BYLF6MG7uQk2olpxYeQhhZg%3D%3D
+<a href="https://medium.com/@vikram96/static-malware-analysis-of-zeus-banking-trojan-report-5951950ff8d2">
+    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*WbXrdpAaBH2fz04Sh8YEeg.png" alt="Zeus Banking Trojan Report">
+</a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
