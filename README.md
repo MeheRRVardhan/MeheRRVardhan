@@ -22,7 +22,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <a href="https://medium.com/@vikram96/static-malware-analysis-of-zeus-banking-trojan-report-5951950ff8d2">
-    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*WbXrdpAaBH2fz04Sh8YEeg.png" alt="Zeus Banking Trojan Report">
+    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*XyMJflsvamR5Uap6" alt="Zeus Banking Trojan Report">
 </a>
 <!-- BLOG-POST-LIST:END -->
 
