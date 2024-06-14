@@ -21,8 +21,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<a href="https://medium.com/@vikram96/la-county-health-services-patients-data-exposed-in-phishing-attack-f3b0ea229d42">
+    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*VhCAudLNolGFcaMH2EKAwg.png" alt="LA County Health Services Phishing Attack" style="width: 400px;">
+</a>
+
 <a href="https://medium.com/@vikram96/static-malware-analysis-of-zeus-banking-trojan-report-5951950ff8d2">
-    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*XyMJflsvamR5Uap6" alt="Zeus Banking Trojan Report">
+    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*XyMJflsvamR5Uap6" alt="Zeus Banking Trojan Report" style="width: 400px;">
 </a>
 <!-- BLOG-POST-LIST:END -->
 
